@@ -1,51 +1,51 @@
-Edad Antigua;·;-2000;475;AAAge;http://
-Edad Media;·;476;1491;AAAge;http://
-Alta Edad Media;·;476;999;AAAge;http://
-Baja Edad Media;·;1000;1491;AAAge;http://
-Edad Moderna;·;1492;1788;AAAge;http://
-Edad Contemporánea;·;1789;now;AAAge;http://
-XXI a.C.;·;-2099;-2001;AAcentury;http://
-XX a.C.;·;-1999;-1901;AAcentury;http://
-XIX a.C.;·;-1899;-1801;AAcentury;http://
-XVIII a.C.;·;-1799;-1701;AAcentury;http://
-XVII a.C.;·;-1699;-1601;AAcentury;http://
-XVI a.C.;·;-1599;-1501;AAcentury;http://
-XV a.C.;·;-1499;-1401;AAcentury;http://
-XIV a.C.;·;-1399;-1301;AAcentury;http://
-XIII a.C.;·;-1299;-1201;AAcentury;http://
-XII a.C.;·;-1199;-1101;AAcentury;http://
-XI a.C.;·;-1099;-1001;AAcentury;http://
-X a.C.;·;-999;-901;AAcentury;http://
-IX a.C.;·;-899;-801;AAcentury;http://
-VIII a.C.;·;-799;-701;AAcentury;http://
-VII a.C.;·;-699;-601;AAcentury;http://
-VI a.C.;·;-599;-501;AAcentury;http://
-V a.C.;·;-499;-401;AAcentury;http://
-IV a.C.;·;-399;-301;AAcentury;http://
-III a.C.;·;-299;-201;AAcentury;http://
-II a.C.;·;-199;-101;AAcentury;http://
-I a.C.;·;-100;-1;AAcentury;http://
-I;·;0;99;AAcentury;http://
-II;·;100;199;AAcentury;http://
-III;·;200;299;AAcentury;http://
-IV;·;300;399;AAcentury;http://
-V;·;400;499;AAcentury;http://
-VI;·;500;599;AAcentury;http://
-VII;·;600;699;AAcentury;http://
-VIII;·;700;799;AAcentury;http://
-IX;·;800;899;AAcentury;http://
-X;·;900;999;AAcentury;http://
-XI;·;1000;1099;AAcentury;http://
-XII;·;1100;1199;AAcentury;http://
-XIII;·;1200;1299;AAcentury;http://
-XIV;·;1300;1399;AAcentury;http://
-XV;·;1400;1499;AAcentury;http://
-XVI;·;1500;1599;AAcentury;http://
-XVII;·;1600;1699;AAcentury;http://
-XVIII;·;1700;1799;AAcentury;http://
-XIX;·;1800;1899;AAcentury;http://
-XX;·;1900;1999;AAcentury;http://
-XXI;·;2000;2099;AAcentury;http://
+Edad Antigua;;-2000;475;AAAge;http://
+Edad Media;;476;1491;AAAge;http://
+Alta Edad Media;;476;999;AAAge;http://
+Baja Edad Media;;1000;1491;AAAge;http://
+Edad Moderna;;1492;1788;AAAge;http://
+Edad Contemporánea;;1789;now;AAAge;http://
+XXI a.C.;;-2099;-2001;AAcentury;http://
+XX a.C.;;-1999;-1901;AAcentury;http://
+XIX a.C.;;-1899;-1801;AAcentury;http://
+XVIII a.C.;;-1799;-1701;AAcentury;http://
+XVII a.C.;;-1699;-1601;AAcentury;http://
+XVI a.C.;;-1599;-1501;AAcentury;http://
+XV a.C.;;-1499;-1401;AAcentury;http://
+XIV a.C.;;-1399;-1301;AAcentury;http://
+XIII a.C.;;-1299;-1201;AAcentury;http://
+XII a.C.;;-1199;-1101;AAcentury;http://
+XI a.C.;;-1099;-1001;AAcentury;http://
+X a.C.;;-999;-901;AAcentury;http://
+IX a.C.;;-899;-801;AAcentury;http://
+VIII a.C.;;-799;-701;AAcentury;http://
+VII a.C.;;-699;-601;AAcentury;http://
+VI a.C.;;-599;-501;AAcentury;http://
+V a.C.;;-499;-401;AAcentury;http://
+IV a.C.;;-399;-301;AAcentury;http://
+III a.C.;;-299;-201;AAcentury;http://
+II a.C.;;-199;-101;AAcentury;http://
+I a.C.;;-100;-1;AAcentury;http://
+I;;0;99;AAcentury;http://
+II;;100;199;AAcentury;http://
+III;;200;299;AAcentury;http://
+IV;;300;399;AAcentury;http://
+V;;400;499;AAcentury;http://
+VI;;500;599;AAcentury;http://
+VII;;600;699;AAcentury;http://
+VIII;;700;799;AAcentury;http://
+IX;;800;899;AAcentury;http://
+X;;900;999;AAcentury;http://
+XI;;1000;1099;AAcentury;http://
+XII;;1100;1199;AAcentury;http://
+XIII;;1200;1299;AAcentury;http://
+XIV;;1300;1399;AAcentury;http://
+XV;;1400;1499;AAcentury;http://
+XVI;;1500;1599;AAcentury;http://
+XVII;;1600;1699;AAcentury;http://
+XVIII;;1700;1799;AAcentury;http://
+XIX;;1800;1899;AAcentury;http://
+XX;;1900;1999;AAcentury;http://
+XXI;;2000;2099;AAcentury;http://
 Leonardo;da Vinci;1452;1519;art;http://
 Michelangelo;Buonarroti;1475;1564;art;http://
 Tiziano;Vecellio (nac. 1477/1490);1477;1576;art;http://
@@ -486,6 +486,77 @@ Federico;García Lorca;1898;1936;literature;http://
 Camilo José;Cela Trulock;1916;2002;literature;http://
 Arturo;Pérez-Reverte;1951;now;literature;http://
 Carlos;Ruiz Zafón;1964;2020;literature;http://
+Mary;Shelley;1797;1851;literature;http://
+Victor;Hugo;1802;1885;literature;http://
+Edgar Allan;Poe;1809;1849;literature;http://
+Charles;Dickens;1812;1870;literature;http://
+Fiódor;Dostoievski;1821;1881;literature;http://
+Gustave;Flaubert;1821;1880;literature;http://
+Lev;Tolstói;1828;1910;literature;http://
+Emily;Dickinson;1830;1886;literature;http://
+Lewis;Carroll;1832;1898;literature;http://
+Mark;Twain;1835;1910;literature;http://
+Emilia;Pardo Bazán;1851;1921;literature;http://
+Henry;James;1843;1916;literature;http://
+Oscar;Wilde;1854;1900;literature;http://
+Marcel;Proust;1871;1922;literature;http://
+Virginia;Woolf;1882;1941;literature;http://
+Franz;Kafka;1883;1924;literature;http://
+James;Joyce;1882;1941;literature;http://
+Juan Ramón;Jiménez;1881;1958;literature;http://
+Franz;Kafka;1883;1924;literature;http://
+Rainer Maria;Rilke;1875;1926;literature;http://
+Marina;Tsvetáieva;1892;1941;literature;http://
+Jorge Luis;Borges;1899;1986;literature;http://
+Albert;Camus;1913;1960;literature;http://
+Simone;de Beauvoir;1908;1986;literature;http://
+Julio;Cortázar;1914;1984;literature;http://
+Italo;Calvino;1923;1985;literature;http://
+Mario;Vargas Llosa;1936;now;literature;http://
+Gabriel;García Márquez;1927;2014;literature;http://
+José;Saramago;1922;2010;literature;http://
+Margaret;Atwood;1939;now;literature;http://
+Toni;Morrison;1931;2019;literature;http://
+Haruki;Murakami;1949;now;literature;http://
+Paul;Auster;1947;now;literature;http://
+Umberto;Eco;1932;2016;literature;http://
+J.K.;Rowling;1965;now;literature;http://
+Chimamanda Ngozi;Adichie;1977;now;literature;http://
+Sally;Rooney;1991;now;literature;http://
+Kazuo;Ishiguro;1954;now;literature;http://
+Annie;Ernaux;1940;now;literature;http://
+Bernardine;Evaristo;1959;now;literature;http://
+Elena;Poniatowska;1932;now;literature;http://
+Rosa;Montero;1951;now;literature;http://
+Javier;Marías;1951;2022;literature;http://
+Eduardo;Mendoza;1943;now;literature;http://
+Manuel;Vázquez Montalbán;1939;2003;literature;http://
+Isabel;Allende;1942;now;literature;http://
+Zadie;Smith;1975;now;literature;http://
+Don;DeLillo;1936;now;literature;http://
+Colson;Whitehead;1969;now;literature;http://
+Roberto;Bolaño;1953;2003;literature;http://
+Antonio;Machado Ruiz;1875;1939;literature;http://
+Federico;García Lorca;1898;1936;literature;http://
+Miguel;Delibes Setién;1920;2010;literature;http://
+Camilo José;Cela Trulock;1916;2002;literature;http://
+Juan;Goytisolo Gay;1931;2017;literature;http://
+Ana María;Matute Ausejo;1925;2014;literature;http://
+Carmen;Martín Gaite;1925;2000;literature;http://
+Rafael;Sánchez Ferlosio;1927;2019;literature;http://
+Juan;Benet Goitia;1927;1993;literature;http://
+Manuel;Vázquez Montalbán;1939;2003;literature;http://
+Gonzalo;Torrente Ballester;1910;1999;literature;http://
+Javier;Marías Franco;1951;2022;literature;http://
+Rosa;Montero Gayo;1951;now;literature;http://
+Almudena;Grandes Hernández;1960;2021;literature;http://
+Luis;Landero Durán;1948;now;literature;http://
+Antonio;Muñoz Molina;1956;now;literature;http://
+Enrique;Vila-Matas;1948;now;literature;http://
+Ray;Loriga Rizzo;1967;now;literature;http://
+Lorenzo;Silva Amador;1966;now;literature;http://
+Irene;Vallejo Moreu;1979;now;literature;http://
+Elvira;Lindo Garrido;1962;now;literature;http://
 Tutankamón;·;-1345;-1327;monarchy;http://
 Jinmu Tennō;(Primer Emperador de Japón);-711;-585;monarchy;http://
 Cleopatra;(Cleopatra VII Thea Filopáto);-69;-30;monarchy;http://
