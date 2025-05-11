@@ -46,25 +46,6 @@ XVIII;;1700;1799;AAcentury;http://
 XIX;;1800;1899;AAcentury;http://
 XX;;1900;1999;AAcentury;http://
 XXI;;2000;2099;AAcentury;http://
-Leonardo;da Vinci;1452;1519;art;http://
-Michelangelo;Buonarroti;1475;1564;art;http://
-Tiziano;Vecellio (nac. 1477/1490);1477;1576;art;http://
-El Greco;·;1541;1614;art;http://
-Michelangelo;Merisi da Caravaggio;1571;1610;art;http://
-Diego;Velázquez;1599;1660;art;http://
-Rembrandt Harmenszoon;van Rijn;1606;1669;art;https://es.wikipedia.org/wiki/Arturo_P%C3%A9rez-Reverte
-Francisco José;de Goya y Lucientes;1746;1828;art;http://
-Paul;Cézanne;1839;1906;art;http://
-Oscar-Claude;Monet;1840;1926;art;http://
-Antoni;Gaudí;1852;1926;art;https://es.wikipedia.org/wiki/Juana_I_de_Castilla
-Vincent;van Gogh;1853;1890;art;http://
-Gustav;Klimt;1862;1918;art;http://
-Edvard;Munch;1863;1944;art;http://
-Pablo;Picasso;1881;1973;art;http://
-Joan;Miró;1893;1983;art;http://
-Salvador;Dalí;1904;1989;art;https://es.wikipedia.org/wiki/Catalina_de_Austria
-Frida;Kahlo;1907;1954;art;http://
-Andy;Warhol;1928;1987;art;http://
 Augusto;(Emperador Romano);-27;14;cfact;http://
 Tiberio;(Emperador Romano);14;37;cfact;http://
 Calígula;(Emperador Romano);37;41;cfact;http://
@@ -459,6 +440,25 @@ Pontificado de Juan Pablo I (Albino Luciani);·;1978;1978;cfact;http://
 Pontificado de Juan Pablo II;·;1978;2005;cfact;http://
 Pontificado de Benedicto XVI;·;2005;2013;cfact;http://
 Pontificado de Francisco;·;2013;now;cfact;http://
+Leonardo;da Vinci;1452;1519;art;http://
+Michelangelo;Buonarroti;1475;1564;art;http://
+Tiziano;Vecellio (nac. 1477/1490);1477;1576;art;http://
+El Greco;·;1541;1614;art;http://
+Michelangelo;Merisi da Caravaggio;1571;1610;art;http://
+Diego;Velázquez;1599;1660;art;http://
+Rembrandt Harmenszoon;van Rijn;1606;1669;art;https://es.wikipedia.org/wiki/Arturo_P%C3%A9rez-Reverte
+Francisco José;de Goya y Lucientes;1746;1828;art;http://
+Paul;Cézanne;1839;1906;art;http://
+Oscar-Claude;Monet;1840;1926;art;http://
+Antoni;Gaudí;1852;1926;art;https://es.wikipedia.org/wiki/Juana_I_de_Castilla
+Vincent;van Gogh;1853;1890;art;http://
+Gustav;Klimt;1862;1918;art;http://
+Edvard;Munch;1863;1944;art;http://
+Pablo;Picasso;1881;1973;art;http://
+Joan;Miró;1893;1983;art;http://
+Salvador;Dalí;1904;1989;art;https://es.wikipedia.org/wiki/Catalina_de_Austria
+Frida;Kahlo;1907;1954;art;http://
+Andy;Warhol;1928;1987;art;http://
 Pitágoras;·;-569;-475;science;http://
 Confucio;·;-551;-479;general;http://
 Sócrates;·;-470;-399;general;http://
