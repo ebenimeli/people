@@ -46,6 +46,24 @@ XVIII;;1700;1799;AAcentury;http://
 XIX;;1800;1899;AAcentury;http://
 XX;;1900;1999;AAcentury;http://
 XXI;;2000;2099;AAcentury;http://
+Jesús de Nazaret;·;0;30;religion;http://
+Mahoma;·;570;632;religion;http://
+Papa Adriano VI;(Adriaan Floriszoon Boeyens);1459;1523;religion;http://
+Paulo III;(Papa n°220);1468;1549;religion;http://
+Bartolomé de las Casas;(nac.1474 o 1484);1474;1566;religion;http://
+Papa Clemente VII;·;1478;1534;religion;http://
+Martín;Lutero;1483;1546;religion;http://
+Julio III;(Papa n°221);1487;1555;religion;http://
+Marcelo II;(Papa n°222);1501;1555;religion;http://
+Francisco de Borja;·;1510;1572;religion;http://
+Pío XII;(Eugenio Maria Giuseppe Giovanni Pacelli);1876;1958;religion;http://
+Juan XXIII;(A.G. Roncalli);1881;1963;religion;http://
+Pablo VI;(G. Montini);1897;1978;religion;http://
+Juan Pablo I;(Albino Luciani);1912;1978;religion;http://
+Juan Pablo II;·;1920;2005;religion;http://
+Papa Benedicto XVI;(J.A. Ratzinger);1927;2022;religion;http://
+Papa Francisco;(Jorge Mario Bergoglio);1936;2025;religion;http://
+Papa León XIV;(Robert Francis Prevost Martínez);1955;now;religion;http://
 Augusto;(Emperador Romano);-27;14;cfact;http://
 Tiberio;(Emperador Romano);14;37;cfact;http://
 Calígula;(Emperador Romano);37;41;cfact;http://
@@ -455,24 +473,6 @@ Gobierno de Mijaíl Gorbachov en la URSS;Mijaíl Serguéyevich Gorbachov;1985;19
 Gobierno de Angela Merkel en Alemania;Angela Dorothea Merkel;2005;2021;cfact;https://es.wikipedia.org/wiki/Angela_Merkel
 Gobierno de Emmanuel Macron en Francia;Emmanuel Jean-Michel Frédéric Macron;2017;2025;cfact;https://es.wikipedia.org/wiki/Emmanuel_Macron
 Reinado de Carlos III del Reino Unido;Charles Philip Arthur George;2022;2025;cfact;https://es.wikipedia.org/wiki/Carlos_III_del_Reino_Unido
-Jesús de Nazaret;·;0;30;religion;http://
-Mahoma;·;570;632;religion;http://
-Papa Adriano VI;(Adriaan Floriszoon Boeyens);1459;1523;religion;http://
-Paulo III;(Papa n°220);1468;1549;religion;http://
-Bartolomé de las Casas;(nac.1474 o 1484);1474;1566;religion;http://
-Papa Clemente VII;·;1478;1534;religion;http://
-Martín;Lutero;1483;1546;religion;http://
-Julio III;(Papa n°221);1487;1555;religion;http://
-Marcelo II;(Papa n°222);1501;1555;religion;http://
-Francisco de Borja;·;1510;1572;religion;http://
-Pío XII;(Eugenio Maria Giuseppe Giovanni Pacelli);1876;1958;religion;http://
-Juan XXIII;(A.G. Roncalli);1881;1963;religion;http://
-Pablo VI;(G. Montini);1897;1978;religion;http://
-Juan Pablo I;(Albino Luciani);1912;1978;religion;http://
-Juan Pablo II;·;1920;2005;religion;http://
-Papa Benedicto XVI;(J.A. Ratzinger);1927;2022;religion;http://
-Papa Francisco;(Jorge Mario Bergoglio);1936;2025;religion;http://
-Papa León XIV;(Robert Francis Prevost Martínez);1955;now;religion;http://
 Leonardo;da Vinci;1452;1519;art;http://
 Michelangelo;Buonarroti;1475;1564;art;http://
 Tiziano;Vecellio (nac. 1477/1490);1477;1576;art;http://
