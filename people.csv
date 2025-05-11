@@ -334,7 +334,7 @@ Pontificado de Anacleto II (Antipapa);·;1130;1138;cfact;http://
 Pontificado de Inocencio II (Gregorio Papareschi);·;1130;1143;cfact;http://
 Pontificado de Victor IV (Antipapa);·;1138;1138;cfact;http://
 Pontificado de Celestino II (Guido de Castelló);·;1143;1144;cfact;http://
-Pontificado de Lucio II (Gerardo Caccianemici);·;1144;1145;cfact;http://
+Pontificado de Lucio II;(Gerardo Caccianemici);1144;1145;cfact;http://
 Pontificado de Beato Eugenio III (Bernardo Paganelli);·;1145;1153;cfact;http://
 Pontificado de Anastasio IV (Conrrado di Suburra);·;1153;1154;cfact;http://
 Pontificado de Adriano IV (Nicolás Breakpeare);·;1154;1159;cfact;http://
@@ -441,6 +441,20 @@ Pontificado de Juan Pablo II;(Karol Józef Wojtyła);1978;2005;cfact;http://
 Pontificado de Benedicto XVI;(Joseph Alois Ratzinger);2005;2013;cfact;http://
 Pontificado de Francisco;(Jorge Mario Bergoglio);2013;2025;cfact;http://
 Pontificado de León XIV;(Robert Francis Prevost);2025;now;cfact;http://
+Reinado de Guillermo II de Alemania;Friedrich Wilhelm Viktor Albert;1888;1918;cfact;https://es.wikipedia.org/wiki/Guillermo_II_de_Alemania
+Gobierno de Lenin en la Unión Soviética;Vladímir Ilich Uliánov;1917;1924;cfact;https://es.wikipedia.org/wiki/Vlad%C3%ADmir_Lenin
+Gobierno de Benito Mussolini en Italia;Benito Amilcare Andrea Mussolini;1922;1943;cfact;https://es.wikipedia.org/wiki/Benito_Mussolini
+Gobierno de Adolf Hitler en Alemania;Adolf Hitler;1933;1945;cfact;https://es.wikipedia.org/wiki/Adolf_Hitler
+Reinado de Jorge VI del Reino Unido;Albert Frederick Arthur George;1936;1952;cfact;https://es.wikipedia.org/wiki/Jorge_VI_del_Reino_Unido
+Dictadura de Francisco Franco en España;Francisco Franco Bahamonde;1939;1975;cfact;https://es.wikipedia.org/wiki/Francisco_Franco
+Gobierno de Charles de Gaulle en Francia;Charles André Joseph Marie de Gaulle;1958;1969;cfact;https://es.wikipedia.org/wiki/Charles_de_Gaulle
+Reinado de Isabel II del Reino Unido;Elizabeth Alexandra Mary Windsor;1952;2022;cfact;https://es.wikipedia.org/wiki/Isabel_II_del_Reino_Unido
+Gobierno de Willy Brandt en Alemania Occidental;Herbert Ernst Karl Frahm;1969;1974;cfact;https://es.wikipedia.org/wiki/Willy_Brandt
+Gobierno de Margaret Thatcher en el Reino Unido;Margaret Hilda Roberts;1979;1990;cfact;https://es.wikipedia.org/wiki/Margaret_Thatcher
+Gobierno de Mijaíl Gorbachov en la URSS;Mijaíl Serguéyevich Gorbachov;1985;1991;cfact;https://es.wikipedia.org/wiki/Mija%C3%ADl_Gorbachov
+Gobierno de Angela Merkel en Alemania;Angela Dorothea Merkel;2005;2021;cfact;https://es.wikipedia.org/wiki/Angela_Merkel
+Gobierno de Emmanuel Macron en Francia;Emmanuel Jean-Michel Frédéric Macron;2017;2025;cfact;https://es.wikipedia.org/wiki/Emmanuel_Macron
+Reinado de Carlos III del Reino Unido;Charles Philip Arthur George;2022;2025;cfact;https://es.wikipedia.org/wiki/Carlos_III_del_Reino_Unido
 Jesús de Nazaret;·;0;30;religion;http://
 Mahoma;·;570;632;religion;http://
 Papa Adriano VI;(Adriaan Floriszoon Boeyens);1459;1523;religion;http://
