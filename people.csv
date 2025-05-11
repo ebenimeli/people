@@ -56,21 +56,21 @@ Martín;Lutero;1483;1546;religion;http://
 Julio III;(Papa n°221);1487;1555;religion;http://
 Marcelo II;(Papa n°222);1501;1555;religion;http://
 Francisco de Borja;·;1510;1572;religion;http://
-Pío XII;(Eugenio Maria Giuseppe Giovanni Pacelli);1876;1958;religion;http://
-Pontificado de Pío XII;(Eugenio Pacelli);1939;1958;religion;http://
-Juan XXIII;(A.G. Roncalli);1881;1963;religion;http://
+Eugenio Maria Giuseppe Giovanni Pacelli;(Pío XII);1876;1958;religion;http://
+Pontificado de Pío XII;(Eugenio Maria Giuseppe Giovanni Pacelli);1939;1958;religion;http://
+A.G. Roncalli;(Juan XXIII);1881;1963;religion;http://
 Pontificado de San Juan XXIII;(Angelo Giuseppe Roncalli);1958;1963;religion;http://
-Pablo VI;(G. Montini);1897;1978;religion;http://
+G. Montini;(Pablo VI);1897;1978;religion;http://
 Pontificado de Pablo VI;(Giovanni Battista Montini);1963;1978;religion;http://
-Juan Pablo I;(Albino Luciani);1912;1978;religion;http://
+Albino Luciani;(Juan Pablo I);1912;1978;religion;http://
 Pontificado de Juan Pablo I;(Albino Luciani);1978;1978;religion;http://
-Juan Pablo II;·;1920;2005;religion;http://
+Karol Józef Wojtyła;Juan Pablo II;1920;2005;religion;http://
 Pontificado de Juan Pablo II;(Karol Józef Wojtyła);1978;2005;religion;http://
-Papa Benedicto XVI;(J.A. Ratzinger);1927;2022;religion;http://
+Joseph Alois Ratzinger;(Benedicto XVI);1927;2022;religion;http://
 Pontificado de Benedicto XVI;(Joseph Alois Ratzinger);2005;2013;religion;http://
-Papa Francisco;(Jorge Mario Bergoglio);1936;2025;religion;http://
+Jorge Mario Bergoglio;(Francisco);1936;2025;religion;http://
 Pontificado de Francisco;(Jorge Mario Bergoglio);2013;2025;religion;http://
-Papa León XIV;(Robert Francis Prevost Martínez);1955;now;religion;http://
+Robert Francis Prevost Martínez;(Papa León XIV);1955;now;religion;http://
 Pontificado de León XIV;(Robert Francis Prevost);2025;now;religion;http://
 Leonardo;da Vinci;1452;1519;art;http://
 Michelangelo;Buonarroti;1475;1564;art;http://
@@ -760,6 +760,14 @@ Pontificado de Leon XIII (Joaquin Pecci de Carpintero);·;1878;1903;cfact;http:/
 Pontificado de San Pío X (Jose Sarto);·;1903;1914;cfact;http://
 Pontificado de Benedicto XV (Francesco de la Chiesa);·;1914;1922;cfact;http://
 Pontificado de Pío XI (Ambrogio Damiano Achille Ratti);·;1922;1939;cfact;http://
+Pontificado de Pío XII;(Eugenio Pacelli);1939;1958;cfact;http://
+Pontificado de San Juan XXIII;(Angelo Giuseppe Roncalli);1958;1963;cfact;http://
+Pontificado de Pablo VI;(Giovanni Battista Montini);1963;1978;cfact;http://
+Pontificado de Juan Pablo I;(Albino Luciani);1978;1978;cfact;http://
+Pontificado de Juan Pablo II;(Karol Józef Wojtyła);1978;2005;cfact;http://
+Pontificado de Benedicto XVI;(Joseph Alois Ratzinger);2005;2013;cfact;http://
+Pontificado de Francisco;(Jorge Mario Bergoglio);2013;2025;cfact;http://
+Pontificado de León XIV;(Robert Francis Prevost);2025;now;cfact;http://
 Reinado de Guillermo II de Alemania;Friedrich Wilhelm Viktor Albert;1888;1918;cfact;https://es.wikipedia.org/wiki/Guillermo_II_de_Alemania
 Gobierno de Lenin en la Unión Soviética;Vladímir Ilich Uliánov;1917;1924;cfact;https://es.wikipedia.org/wiki/Vlad%C3%ADmir_Lenin
 Gobierno de Benito Mussolini en Italia;Benito Amilcare Andrea Mussolini;1922;1943;cfact;https://es.wikipedia.org/wiki/Benito_Mussolini
